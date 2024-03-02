@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Websites\\Applications\\WebApplication1\\Model\\Model.csproj",
+      "projectUniqueName": "D:\\Test1\\branch\\UK_Evolve_Online_Application\\WebApplication1\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "D:\\Websites\\Applications\\WebApplication1\\Model\\Model.csproj",
+      "projectPath": "D:\\Test1\\branch\\UK_Evolve_Online_Application\\WebApplication1\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\Manikandan\\.nuget\\packages\\",
-      "outputPath": "D:\\Websites\\Applications\\WebApplication1\\Model\\obj\\",
+      "outputPath": "D:\\Test1\\branch\\UK_Evolve_Online_Application\\WebApplication1\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
